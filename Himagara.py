@@ -1,0 +1,1 @@
+print("Halo, selamat datang di Kelompok 8 P-RPL")
